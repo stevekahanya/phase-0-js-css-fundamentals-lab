@@ -16,14 +16,15 @@
     padding: 0;
 }
 
-.navbar li {
+
+.navbar ul li {
     display: inline;
     margin: 0 1em;
 }
 
-.navbar a {
+.navbar ul li a {
     color: #fff;
-    text-decoration: none; /* Optional: Removes underline for cleaner look */
+    text-decoration: none;
 }
 
 /* --- Main Content Styling --- */
